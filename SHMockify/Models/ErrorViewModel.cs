@@ -1,4 +1,4 @@
-namespace WebApplication1.Models
+namespace SHMockify.Models
 {
     public class ErrorViewModel
     {
